@@ -13,7 +13,7 @@ Digital Craftsman (Developer / Programmer)
 
 <!--Start Intro-->               
 <p align="left">
-### 👩‍💻 About Me
+👩‍💻 About Me
 
 I’m a final-year Software Engineering student with hands-on experience in full-stack development, AI-driven systems, and agentic workflows.  
 I enjoy building production-ready applications, working with APIs, automation, and LLMs, and turning ideas into scalable solutions.
@@ -161,3 +161,5 @@ I enjoy building production-ready applications, working with APIs, automation, a
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
+
