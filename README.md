@@ -1,5 +1,5 @@
 <!--Banner-->
-![muskan-tariq Banner Image](./banner.png)
+![muskan-tariq Banner Image](./banner1.png)
 
 <!--Night Owl image-->
 <div>
