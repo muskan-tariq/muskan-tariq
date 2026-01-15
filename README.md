@@ -81,9 +81,9 @@ I enjoy building production-ready applications, working with APIs, automation, a
     <td width="50%">
       <h3 align="center">Latest Project</h3>
       <p align="center">
-        <a href="https://github.com/muskan-tariq/Integrow-AI-Driven-SDLC-Automation.git">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=muskan-tariq&repo=Integrow-AI-Driven-SDLCAutomation&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
-        </a>
+       <a href="https://github.com/muskan-tariq/Integrow-AI-Driven-SDLC-Automation">
+  <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=muskan-tariq&repo=Integrow-AI-Driven-SDLC-Automation&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
+</a>
       </p>
     </td>
     <td width="50%">
