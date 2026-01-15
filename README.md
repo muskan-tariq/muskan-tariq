@@ -7,16 +7,16 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴜsᴋᴀɴ! 
+Digital Craftsman (Developer / Programmer)
 <br /> 
 
 <!--Start Intro-->               
 <p align="left">
 ### 👩‍💻 About Me
 
-I’m a **final-year Software Engineering student** with hands-on experience in **full-stack development**, **AI-driven systems**, and **agentic workflows**.  
-I enjoy building **production-ready applications**, working with **APIs, automation, and LLMs**, and turning ideas into scalable solutions.
+I’m a final-year Software Engineering student with hands-on experience in full-stack development, AI-driven systems, and agentic workflows.  
+I enjoy building production-ready applications, working with APIs, automation, and LLMs, and turning ideas into scalable solutions.
 
 - 💻 Full-Stack experience through internships & real-world projects  
 - 🤖 Interested in AI, LLM integration & multi-agent systems  
@@ -34,7 +34,6 @@ I enjoy building **production-ready applications**, working with **APIs, automat
 
 ---
 
-
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
@@ -46,28 +45,23 @@ I enjoy building **production-ready applications**, working with **APIs, automat
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>**Languages:** `Python` `JavaScript` `TypeScript` `Java` `C++`  </li>
-  <li>**Frontend:** `React` `Next.js` `Vue.js` `Angular` `HTML` `CSS` </li>
-  <li>**Backend & APIs:** `FastAPI` `Node.js` `REST APIs`  </li>
-  <li>**AI & Agentic Systems:** `LLMs (LLaMA)` `Prompt Engineering` `NLP` `Transformers`   </li>
-  <li>**Databases:** `PostgreSQL` `MySQL` `MongoDB`</li>
-   <li>**Tools & DevOps:** `Git & GitHub` `Docker` `Linux` `Vercel` `Supabase`
-</li>
+  <li>Languages: Python, JavaScript, TypeScript, Java, C++  </li>
+  <li>Frontend: React, Next.js, Vue.js, Angular, HTML, CSS </li>
+  <li>Backend & APIs: FastAPI, Node.js, REST APIs  </li>
+  <li>AI & Agentic Systems: LLMs (LLaMA), Prompt Engineering, NLP, Transformers   </li>
+  <li>Databases: PostgreSQL, MySQL, MongoDB</li>
+  <li>Tools & DevOps: Git & GitHub, Docker, Linux, Vercel, Supabase</li>
 </ul>
 
-<br />
-<br />
-<br />
-<br />
-
+<br /><br /><br /><br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center">GitHub Stats</h3>
       <p align="center">
         <a href="https://github.com/muskan-tariq">
           <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=muskan-tariq&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
@@ -75,7 +69,7 @@ I enjoy building **production-ready applications**, working with **APIs, automat
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center">Streak Stats</h3>
       <p align="center">
         <a href="https://github.com/muskan-tariq">
           <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=muskan-tariq&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
@@ -84,18 +78,16 @@ I enjoy building **production-ready applications**, working with **APIs, automat
     </td>
   </tr>
   <tr>
-
-
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center">Latest Project</h3>
       <p align="center">
         <a href="https://github.com/muskan-tariq/storyblok-mcp-server">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=muskan-tariq&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=muskan-tariq&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center">Top Contributions</h3>
       <p align="center">
         <a href="https://github.com/muskan-tariq">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=muskan-tariq&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
@@ -104,25 +96,29 @@ I enjoy building **production-ready applications**, working with **APIs, automat
     </td>
   </tr>
 </table>
-<br /> ### 🚀 Featured Projects
+
+<br />
+
+### 🚀 Featured Projects
 
 #### 🔹 Integrow – AI-Driven SDLC Automation Platform (FYP)
 - Multi-agent system that automates software lifecycle stages  
-- LLM-powered analysis using **LLaMA 3.3**  
-- Backend built with **FastAPI**, frontend with **Next.js + Electron**
+- LLM-powered analysis using LLaMA 3.3  
+- Backend built with FastAPI, frontend with Next.js + Electron
 
 #### 🔹 Customer Sentiment Analysis Agent
 - NLP-based sentiment detection using transformer models  
 - Analyzes customer reviews to extract actionable insights  
-- Built using **Python, HuggingFace, and deep learning models**
+- Built using Python, HuggingFace, and deep learning models
 
 #### 🔹 HairLocks – Real Business Website
 - Full-stack web application serving real customers  
 - Focused on performance, UI consistency, and scalability  
+
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=muskan-tariq&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
@@ -130,65 +126,27 @@ I enjoy building **production-ready applications**, working with **APIs, automat
 ---
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--STARTS_HERE_QUOTE_CARD-->
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=Better%20late%20than%20never.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
-<!--ENDS_HERE_QUOTE_CARD-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 <!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Connect With Me 🤝 </h2>
 <div align="center">
   
 <a href="mailto:muskantariq464@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="muskantariq464@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="Email" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/muskan-tariq" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<a href="https://github.com/muskan-tariq" target="_blank">
+<img src="./github.png" width=50 height=50 alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 
-<a href="www.linkedin.com/in/muskaan-tariq" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/muskaan-tariq" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
 
 </div>
@@ -199,9 +157,7 @@ I enjoy building **production-ready applications**, working with **APIs, automat
 <a href="https://www.buymeacoffee.com/muskan-tariq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
-
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
