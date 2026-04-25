@@ -15,16 +15,16 @@ Digital Craftsman (Developer / Programmer)
 <p align="left">
 👩‍💻 About Me
 
-I’m a final-year Software Engineering student with hands-on experience in full-stack development, AI-driven systems, and agentic workflows.  
+I’m a Software Engineer with experience in full-stack development, AI-driven systems, and agentic workflows.  
 I enjoy building production-ready applications, working with APIs, automation, and LLMs, and turning ideas into scalable solutions.
 
-- 💻 Full-Stack experience through internships & real-world projects  
+- 💻 Full-Stack experience through job & real-world projects  
 - 🤖 Interested in AI, LLM integration & multi-agent systems  
 - 🚀 Love building things that real users actually use  
 - 🌱 Always learning — especially system design & scalable architectures  
 
 ---
-- 💻 Visit my [Portfolio](https://muskan-tariq.github.io) for more details about me.
+- 💻 Visit my [Portfolio]https://my-portfolio-chi-dun-83.vercel.app/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
